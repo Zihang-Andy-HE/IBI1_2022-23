@@ -1,6 +1,22 @@
-I like getting GitHub to work
-I like music
-I like pork pies
-I like crisps
-I like tea very much
-I like Radio 4
+I like strawberries.
+I like milk.
+I like yogurt.
+<<<<<<< HEAD
+I like KFC fried chicken.
+I like beds.
+I like smart phones.
+I like ipads.
+I like computers.
+I like dogs very much.
+I like cats.
+=======
+I like smart phones.
+I like ipads.
+I like computers.
+I like dogs.
+I like basketball.
+I like football.
+I don't like volleyball.
+I like cats.
+I like turtles.
+>>>>>>> Zhongyu
