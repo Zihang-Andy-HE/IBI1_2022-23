@@ -1,0 +1,4 @@
+Things don't go smooth.
+I always forgot to add the file to repository and commit these changes.
+It was easy to forget to change the direcoty.
+I actually cannot understand the commit code git commit -m "Initialise"
