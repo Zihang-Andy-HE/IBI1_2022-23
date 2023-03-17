@@ -6,7 +6,7 @@ g = 1
 while (r <= 100):
 #g record generation
 	g += 1
-#r multiply 2 each generation
+#r multiply 2 each generation (Because the newborn number is the same as previous number)
 	r *=2
 
 print('At '+str(g)+' generation over 100 rabbits have been born and the rabbits number is '+str(r))
