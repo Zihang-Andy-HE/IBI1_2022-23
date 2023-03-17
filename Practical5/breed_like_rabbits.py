@@ -1,4 +1,4 @@
-#start with 2 rabbits
+#start with 2 rabbits, r represent the number of rabbits
 r = 2
 # g represent generation
 g = 1
