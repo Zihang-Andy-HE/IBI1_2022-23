@@ -8,8 +8,10 @@ num = results_dic[genre]
 print(num)
 allgenres = 'Comedy', 'Action', 'Romance', 'Fantasy', 'Science-fiction', 'Horror', 'Crime', 'Documentary', 'History', 'War'
 allnum = [73, 42, 38, 28, 22, 19, 18, 12, 8, 7]
-
+#the pie plotting code obtained from https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html
+#function plt.subplots returns two variables figure and axes
 fig, ax = plt.subplots()
+#input numbers labels and display the percent value
 ax.pie(allnum, labels=allgenres, autopct='%1.1f%%')
 
 plt.show()
