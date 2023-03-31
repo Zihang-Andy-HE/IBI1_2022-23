@@ -1,0 +1,4 @@
+How have new cases and total cases developed over time in the UK?
+Line number: 35-46
+Result
+There were no cases in UK until around 4th March 2020. Then the new cases surged to around 3000 in about 3 weeks. Meanwhile, the total number of cases rose rapidly to more than 20000.
