@@ -36,9 +36,7 @@ plt.xlabel('Date')
 plt.ylabel('New Cases and New Deaths')
 plt.title('Worldwide New COVID-19 Cases and New COVID-19 Deaths Over Time')
 plt.show()
-#plt.xticks(world_dates.iloc[0:len(world_dates):4],rotation=-90)
 #b+ means symbol "+" in blue, r+ means symbol "+" in red, bo means dots in blue, ".","-" can work too
-#plt.plot(world_dates.iloc[0:len(world_dates):4], world_new_cases, 'r-')
 
 #question.txt (How have new cases and total cases developed over time in the UK)
 uk_data = covid_data[covid_data["location"] == "United Kingdom"]
