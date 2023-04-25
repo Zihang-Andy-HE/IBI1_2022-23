@@ -1,0 +1,16 @@
+alignment score 
+human-mouse 144
+human-cat 119
+cat-mouse 147
+
+the percentage of identical amino acids for each of the three comparisons
+human-mouse 82.13399503722084%
+human-cat 85.23573200992556%
+cat-mouse 81.76178660049628%
+
+Intepretations
+The sequences of humans and cats are most closely related. The sequences of cats and mouses are least closely related. The sequences of humans and mouses are modestly closely related.
+
+These data provide insight into the evolutionary relationships and genetic similarities between these species. 
+The higher alignment score and percentage of identical amino acids between humans and cats may suggest that these species have undergone less genetic divergence since they may share a more recent common ancestor than either species wih mices, 
+while the lower values for cat-mouse comparisons may indicate a longer evolutionary distance and a greater degree of divergence between these species .
