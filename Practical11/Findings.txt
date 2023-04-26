@@ -4,9 +4,9 @@ human-cat 3717.0
 cat-mouse 3592.0
 
 the percentage of identical amino acids for each of the three comparisons
-human-mouse 82.13399503722084%
-human-cat 85.23573200992556%
-cat-mouse 81.76178660049628%
+human-mouse 82.11180124223603%
+human-cat 85.21739130434782%
+cat-mouse 81.73913043478261%
 
 Intepretations
 The sequences of humans and cats are most closely related. The sequences of cats and mouses are least closely related. The sequences of humans and mouses are modestly closely related.
